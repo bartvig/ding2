@@ -15898,7 +15898,7 @@ msgid "Material tracks"
 msgstr "Numre"
 
 msgid "Description"
-msgstr "Beskirvelse"
+msgstr "Beskrivelse"
 
 msgid "Version"
 msgstr "Version"
@@ -60376,4 +60376,3 @@ msgstr "Du skal vælge afhentningsfilial før du kan reservere"
 #: /user/21/status/reservations
 msgid "This reservation is about to expire."
 msgstr "Denne reservering udløber snart."
-

@@ -735,7 +735,7 @@ msgstr "Kommentar"
 
 #: field:field_alma_interest_period:#allowed_values:30
 msgctxt "field_alma_interest_period:#allowed_values:30"
-msgid "1 måned"
+msgid "1 month"
 msgstr "1 måned"
 
 #: field:field_alma_interest_period:#allowed_values:60
