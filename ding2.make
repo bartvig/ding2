@@ -112,6 +112,11 @@ projects[ddb_cp][download][type] = "git"
 projects[ddb_cp][download][url] = "git@github.com:ding2/ddb_cp.git"
 projects[ddb_cp][download][branch] = "master"
 
+projects[ting_oembed][type] = "module"
+projects[ting_oembed][download][type] = "git"
+projects[ting_oembed][download][url] = "git@github.com:ding2/ting_oembed.git"
+projects[ting_oembed][download][branch] = "master"
+
 ; Base theme
 projects[ddbasic][type] = "theme"
 projects[ddbasic][download][type] = "git"
