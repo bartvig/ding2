@@ -117,6 +117,11 @@ projects[ting_oembed][download][type] = "git"
 projects[ting_oembed][download][url] = "git@github.com:ding2/ting_oembed.git"
 projects[ting_oembed][download][branch] = "master"
 
+projects[ding_ekurser][type] = "module"
+projects[ding_ekurser][download][type] = "git"
+projects[ding_ekurser][download][url] = "git@github.com:ding2/ding_ekurser.git"
+projects[ding_ekurser][download][branch] = "master"
+
 ; Base theme
 projects[ddbasic][type] = "theme"
 projects[ddbasic][download][type] = "git"
